@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+}
+.line{
+    width: 80px;
+    height: 5px;
+    background: black;
+}
+#apps{
+    background-color: blue;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#games{
+    background-color: burlywood;
+}
+#chatbot{
+    background-color: crimson;
+}
